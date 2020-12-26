@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="onCoffee/docs/assets/img/mstile-150x150.png"/>
+            <square150x150logo src="onCoffee/assets/img/mstile-150x150.png"/>
             <TileColor>#f9f3ee</TileColor>
         </tile>
     </msapplication>
